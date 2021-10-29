@@ -1,0 +1,9 @@
+{
+  "name": "mocker",
+  "version": "1.0.0",
+  "description": "Mocker is an open source solution to fake API on the early stages development.",
+  "main": "index.js",
+  "repository": "https://github.com/NikitaSyromiatnikov/mocker.git",
+  "author": "Nikita Syromiatnikov <nikitasyromiatnikovdev@gmail.com>",
+  "license": "UNLICENSED"
+}
